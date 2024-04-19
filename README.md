@@ -14,4 +14,5 @@ This comprehensive approach aims to broaden the utility of the system across mul
 - Data Augmentation
 - Feature Extraction
 - Deployed Application: Dog Breed Classifier
+  https://huggingface.co/spaces/marciayang/dog-breed-detect
 - Application on video
